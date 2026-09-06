@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+user_uploads/
+tempCodeRunnerFile.py
+.env
+.vscode/
